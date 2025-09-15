@@ -9,15 +9,25 @@ Passionate about **clean code, performance optimization, and building products t
 ## 📂 Featured Projects  
 
 🔹 **[Allconnect.com](https://www.allconnect.com/)**  
-High-traffic marketplace helping users compare internet, TV, and energy plans.  
-*Full-stack contributions: React + Next.js frontend, Node.js/Python APIs, AWS serverless infra.*  
+[Allconnect](https://www.allconnect.com/) is a **high-traffic consumer marketplace** where millions of users compare and purchase home services like internet, TV, energy, and utilities.  
+
+As a **full-stack engineer**, I contributed across the stack:  
+- **Frontend (React + Next.js + TypeScript):** Built reusable components, improved page load speed, and ensured SEO best practices for maximum visibility.  
+- **Backend (Node.js + Python APIs):** Designed and optimized REST/GraphQL APIs, integrated third-party service providers, and improved data pipelines for real-time offers.  
+- **Infrastructure (AWS serverless):** Leveraged Lambda, S3, and CloudFront to create scalable, cost-efficient systems with CI/CD automation.  
+- **Impact:** Helped improve site performance and reliability on a platform processing millions of monthly visitors, directly driving conversions and revenue.  
+
+---
 
 🔹 **[MyMove.com](https://www.mymove.com/)**  
-Nationwide moving services platform partnered with USPS.  
-*Built scalable features, optimized SEO performance, integrated APIs, and improved CI/CD pipelines.*  
+[MyMove](https://www.mymove.com/) is a **nationwide moving services platform**, partnered with **USPS** to help millions of Americans with address changes, moving checklists, and exclusive service deals.  
 
-🔹 **Shopify Custom Apps & Themes**  
-Created custom Shopify apps, optimized storefront performance, and built headless e-commerce solutions using **Hydrogen + Next.js**.  
+My contributions included:  
+- **Frontend (React + TypeScript):** Developed new user-facing features, optimized for accessibility and responsive design.  
+- **Backend (APIs + integrations):** Built and maintained APIs to connect USPS systems and moving service providers, ensuring seamless user flows.  
+- **Performance & SEO:** Improved Core Web Vitals, implemented structured data for better search rankings, and reduced load times significantly.  
+- **CI/CD & Infrastructure:** Enhanced CI/CD pipelines for faster deployments, improved monitoring, and automated testing to ensure quality at scale.  
+- **Impact:** Delivered features that improved user experience and boosted visibility, helping MyMove maintain its position as a trusted moving resource across the U.S.  
 
 ---
 
