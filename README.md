@@ -42,11 +42,5 @@ Created custom Shopify apps, optimized storefront performance, and built headles
 
 ---
 
-## 🌍 Connect With Me  
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff)](#)  
-
----
 
 ⭐️ *“Always learning, always building.”*  
