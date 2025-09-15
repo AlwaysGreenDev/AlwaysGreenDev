@@ -6,21 +6,6 @@ Passionate about **clean code, performance optimization, and building products t
 
 ---
 
-## 🛠 Tech Stack
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff&style=flat)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=fff&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=fff&style=flat)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=fff&style=flat)
-
----
-
 ## 📂 Featured Projects  
 
 🔹 **[Allconnect.com](https://www.allconnect.com/)**  
