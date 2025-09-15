@@ -137,27 +137,6 @@ Created custom Shopify apps, optimized storefront performance, and built headles
   </tr>
 </table>
 
-<h1 font-weight="bold">
-  How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100" />
-</h1>
-
-<p align='left'>
-  <a href="https://www.linkedin.com/in/rey0601/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:loquinariorey0601@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://t.me/SMILE0601">
-    <img src="https://img.shields.io/badge/Telegram-3390ec?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discordapp.com/users/ronnie_be_gentle#2187">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</p>
-
-
 <!-- Snake Game (GitHub Contribution Graph) -->
 <div>
   <img src="https://raw.githubusercontent.com/sminerport/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Game" />
